@@ -30,11 +30,38 @@
 
 
 ### Glad to see you here!  
-I'm a full-stack web developer who has converted years of academic education and self-learning into an amazing knowledge.
+# Mead Alsorani
 
-I specialize in building robust backends that do all the heavy lifting for your app or website, with responsive and modern designed frontends.
-I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
-  
+## Full Stack Developer | Angular | .NET Core
+
+Welcome to my GitHub profile! I am a passionate Full Stack Developer specializing in Angular and .NET Core, with a keen eye for modern web design and development. I believe in crafting exceptional digital experiences that combine functionality, usability, and aesthetics.
+
+### Skills
+
+- **Front-End:** Angular, HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Angular Material, Ant design
+- **Back-End:** .NET Core, C#, ASP.NET, RESTful APIs, SQL, Entity Framework, Entity Framework core
+- **Database:** SQL Server, MySQL
+- **Version Control:** Git, GitHub
+- **Testing:** Jasmine, Karma, NUnit
+### Experience
+
+**SAPPRO Bilişim | Full Stack Developer**
+*Month Year - Present*
+
+- Collaborated with cross-functional teams to develop and deploy feature-rich web applications.
+- Implemented responsive user interfaces using Angular, HTML, CSS, and JavaScript, ensuring optimal user experience across devices.
+- Developed RESTful APIs and integrated them with the front-end using .NET Core, ensuring seamless data flow and functionality.
+
+### Education
+
+- **Bachelor of Computer Science** | Toros University | 2020
+
+### Contact
+
+Let's connect and discuss exciting opportunities! Feel free to reach out to me via email at maadsorani24@gmail.com or connect with me on LinkedIn: (https://www.linkedin.com/in/meadalsorani/)
+
+Thank you for visiting my GitHub profile!
+
 
 <br/>  
 
