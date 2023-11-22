@@ -38,11 +38,11 @@ Welcome to my GitHub profile! I am a passionate Full Stack Developer specializin
 
 ### Skills
 
-- **Front-End:** Angular, HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Angular Material, Ant design
-- **Back-End:** .NET Core, C#, ASP.NET, RESTful APIs, SQL, Entity Framework, Entity Framework core
-- **Database:** SQL Server, MySQL
-- **Version Control:** Git, GitHub
-- **Testing:** Jasmine, Karma, NUnit
+- **Front-End:** Angular, HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Angular Material, Tailwind, Ant design
+- **Back-End:** .NET Core, C#, ASP.NET,Fluent validation, RESTful APIs,
+- **Database:** SQL Server, Entity Framework, Entity Framework core
+- **Version Control:** Git, GitHub, Azure DevOps
+- **Testing:** Jasmine, NUnit
 ### Experience
 
 **SAPPRO Bilişim | Full Stack Developer**
