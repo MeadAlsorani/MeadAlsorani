@@ -45,8 +45,15 @@ Welcome to my GitHub profile! I am a passionate Full Stack Developer specializin
 - **Testing:** Jasmine, NUnit
 ### Experience
 
+
+**DigitalWink | Angular - Frontend Developer**
+*November 2023 - Present*
+
+- Developing scalable and robust web applications using Angular.
+Collaborating with professional colleagues to translate designs into efficient, clean code and well performance applications.
+
 **SAPPRO Bilişim | Full Stack Developer**
-*Month Year - Present*
+*May 2021 - November 2023*
 
 - Collaborated with cross-functional teams to develop and deploy feature-rich web applications.
 - Implemented responsive user interfaces using Angular, HTML, CSS, and JavaScript, ensuring optimal user experience across devices.
