@@ -76,13 +76,13 @@ Thank you for visiting my GitHub profile!
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [SAPPRO Bilişim](https://www.linkedin.com/company/sappro-bili%C5%9Fim/mycompany/)  
+- 🔭 I’m currently working on [DigitalWink](https://www.linkedin.com/company/diwink/)  
   
 
 - 🌱 I’m currently learning Anguler +2, .net core   
   
 
-- ❓ Ask me about anything related to c# and .net  
+- ❓ Ask me about anything related to .net and Angular 
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
