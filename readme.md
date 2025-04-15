@@ -30,7 +30,7 @@
 
 
 ### Glad to see you here!  
-# Mead Alsorani
+# Maad Alsorani
 
 ## Full Stack Developer | Angular | .NET Core
 
