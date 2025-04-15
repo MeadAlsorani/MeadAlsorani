@@ -1,4 +1,4 @@
-## Hey 👋, I'm Mead Alsorani  
+## Hey 👋, I'm Maad Alsorani  
   
 
 <a href="https://github.com/MeadAlsorani" target="_blank">
